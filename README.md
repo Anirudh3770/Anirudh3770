@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/6926dbbe73b43f4ec5fe67c721489033.gif">
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **React js**
 
 - 📫 How to reach me **anirudharchakam@gmail.com**
 
