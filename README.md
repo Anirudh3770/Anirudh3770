@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning **React js**
 
 - 📫 How to reach me **anirudharchakam@gmail.com**
+- <a href="https://www.linkedin.com/in/anirudh-archakam-b25577233/" target='_blank'><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;
 
 <h3 align="left">Languages and Tools:</h3>
  🛠 &nbsp;Tech Stack
@@ -16,7 +17,6 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 <br />
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirudh3770&theme=radical" alt="anirudh3770" /></p>
